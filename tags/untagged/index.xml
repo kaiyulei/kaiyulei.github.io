@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Untagged on omemo</title>
+    <link>http://localhost:1313/tags/untagged/</link>
+    <description>Recent content in Untagged on omemo</description>
+    <generator>Hugo -- 0.135.0</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Mon, 30 Sep 2024 21:22:52 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Kyle</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Mon, 30 Sep 2024 21:22:52 +0800</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;堅信設計是科學與哲學結合的專業學門，重視精煉的設計系統與流程，以及設計師獨特但務實的觀念與素養。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,11 @@
+.figure {
+    display: flex;
+    justify-content: center; /* 水平居中 */
+    align-items: center; /* 垂直居中 */
+    text-align: center; /* 文字居中 */
+}
+
+.figure img {
+    max-width: 100; /* 限制圖片最大寬度 */
+    height: auto; /* 保持比例 */
+}
