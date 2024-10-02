@@ -2,6 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://kaiyulei.github.io/en/about/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://kaiyulei.github.io/zh/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kaiyulei.github.io/en/about/"
+                />
+  </url><url>
+    <loc>https://kaiyulei.github.io/en/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://kaiyulei.github.io/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kaiyulei.github.io/en/"
+                />
+  </url><url>
+    <loc>https://kaiyulei.github.io/en/osold/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://kaiyulei.github.io/zh/osold/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kaiyulei.github.io/en/osold/"
+                />
+  </url><url>
+    <loc>https://kaiyulei.github.io/en/othings/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://kaiyulei.github.io/zh/othings/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kaiyulei.github.io/en/othings/"
+                />
+  </url><url>
     <loc>https://kaiyulei.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -12,18 +64,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://kaiyulei.github.io/en/categories/"
-                />
-  </url><url>
-    <loc>https://kaiyulei.github.io/en/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://kaiyulei.github.io/zh/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kaiyulei.github.io/en/"
                 />
   </url><url>
     <loc>https://kaiyulei.github.io/en/tags/</loc>
@@ -37,9 +77,5 @@
                 hreflang="en"
                 href="https://kaiyulei.github.io/en/tags/"
                 />
-  </url><url>
-    <loc>https://kaiyulei.github.io/en/en/</loc>
-  </url><url>
-    <loc>https://kaiyulei.github.io/en/zh/</loc>
   </url>
 </urlset>

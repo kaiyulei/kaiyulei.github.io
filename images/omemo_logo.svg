@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Grid" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 1024">
+  <defs>
+    <style>
+      .cls-1 {
+        mask: url(#mask);
+      }
+
+      .cls-2 {
+        filter: url(#luminosity-invert);
+      }
+
+      .cls-3 {
+        fill: url(#_未命名漸層_6);
+      }
+
+      .cls-4 {
+        fill: #222325;
+      }
+    </style>
+    <filter id="luminosity-invert" x="82.61" y="82.61" width="858.78" height="858.78" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask" x="82.61" y="82.61" width="858.78" height="858.78" maskUnits="userSpaceOnUse">
+      <g class="cls-2">
+        <g>
+          <path class="cls-4" d="M244.93,380.63c-32-8.57-65.41-4.17-94.09,12.39-28.68,16.56-49.2,43.3-57.78,75.29l-6.21,23.18c-17.7,66.04,21.64,134.17,87.68,151.87,10.71,2.87,21.47,4.24,32.06,4.24,54.74,0,104.98-36.59,119.8-91.92l6.21-23.18c17.7-66.04-21.64-134.17-87.68-151.87Z"/>
+          <path class="cls-4" d="M937.15,491.5l-6.21-23.18c-8.57-31.99-29.09-58.73-57.77-75.29s-62.1-20.96-94.09-12.39c-66.04,17.7-105.38,85.82-87.68,151.87l6.21,23.18c8.57,31.99,29.09,58.73,57.78,75.29,19.11,11.03,40.31,16.67,61.8,16.67,10.77,0,21.61-1.42,32.29-4.28,66.04-17.7,105.38-85.82,87.68-151.87Z"/>
+          <path class="cls-4" d="M512,376c-68.37,0-124,55.63-124,124v24c0,68.37,55.63,124,124,124s124-55.63,124-124v-24c0-68.37-55.63-124-124-124ZM604,524c0,50.73-41.27,92-92,92s-92-41.27-92-92v-24c0-50.73,41.27-92,92-92s92,41.27,92,92v24Z"/>
+          <rect class="cls-4" x="473.6" y="469.33" width="76.8" height="85.33" rx="38.4" ry="38.4"/>
+        </g>
+      </g>
+    </mask>
+    <linearGradient id="_未命名漸層_6" data-name="未命名漸層 6" x1="82.61" y1="512" x2="941.39" y2="512" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#daa520"/>
+      <stop offset="1" stop-color="#da8a67"/>
+    </linearGradient>
+  </defs>
+  <g class="cls-1">
+    <rect class="cls-3" x="82.61" y="82.61" width="858.78" height="858.78"/>
+  </g>
+</svg>
