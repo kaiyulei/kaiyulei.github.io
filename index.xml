@@ -5,41 +5,21 @@
     <link>https://kaiyulei.github.io/</link>
     <description>Recent content on omemo</description>
     <generator>Hugo -- 0.135.0</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Tue, 01 Oct 2024 23:20:44 +0800</lastBuildDate>
+    <language>en</language>
     <atom:link href="https://kaiyulei.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>https://kaiyulei.github.io/about/</link>
-      <pubDate>Tue, 01 Oct 2024 23:20:44 +0800</pubDate>
-      <guid>https://kaiyulei.github.io/about/</guid>
-      <description>&lt;p&gt;omemo is a brand created by Kyle Lei, dedicated to meeting the desires of a beautiful life by meticulously crafting user experiences filled with joy, believing that such a life stems from a balance among spirit, wealth, and health. At the spiritual level, omemo has launched the oThings memory-keeping app to help you focus on noting your loved things. At the wealth level, omemo has also introduced the oSold POS app to assist you in cashing in on your dreams.&lt;/p&gt;</description>
+      <title>Welcome</title>
+      <link>https://kaiyulei.github.io/en/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kaiyulei.github.io/en/</guid>
+      <description>&lt;h1 id=&#34;welcom-tp-omemos-site&#34;&gt;Welcom tp omemo&amp;rsquo;s site！&lt;/h1&gt;</description>
     </item>
     <item>
-      <title>oSold</title>
-      <link>https://kaiyulei.github.io/osold/</link>
-      <pubDate>Mon, 30 Sep 2024 23:37:50 +0800</pubDate>
-      <guid>https://kaiyulei.github.io/osold/</guid>
-      <description>&lt;h4 id=&#34;pos-system-that-cash-dreams&#34;&gt;POS system that cash dreams&lt;/h4&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://kaiyulei.github.io/osold/images/oSold_cover.png&#34; alt=&#34;oSold iPhone Cover&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;Your life&amp;rsquo;s value is unique, and your uniqueness is reflected in the pursuit of your dreams. These dreams may be the realization of your passionate creations or your favorite tastes. However, as these dreams materialize through the sales process, your enthusiasm might be consumed by the tedious tasks of managing and checking out products.
-&lt;img loading=&#34;lazy&#34; src=&#34;https://kaiyulei.github.io/osold/images/oSold_scenario.png&#34; alt=&#34;oThings Scenario&#34;  /&gt;
-
-&lt;strong&gt;oSoldis an offline sales application designed specifically for dream chasers like you, allowing you to focus on cashing your dreams.&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>oThings</title>
-      <link>https://kaiyulei.github.io/othings/</link>
-      <pubDate>Mon, 30 Sep 2024 23:19:52 +0800</pubDate>
-      <guid>https://kaiyulei.github.io/othings/</guid>
-      <description>&lt;h4 id=&#34;note-your-loved-things&#34;&gt;Note your loved things&lt;/h4&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://kaiyulei.github.io/othings/images/oThings_cover.png&#34; alt=&#34;oThings Cover&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;Your life experience is unique, and your uniqueness is reflected in your loved things. These things may be your collections, keepsakes, or precious memories of events. However, as time passes and things accumulate, the memories of these things may gradually fade away.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://kaiyulei.github.io/othings/images/oThings_scenario.png&#34; alt=&#34;oThings Scenario&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;oThing is a memory-keeping application designed specifically for your life memories, allowing you to focus on noting your loved things.&lt;/strong&gt;&lt;/p&gt;</description>
+      <title>歡迎</title>
+      <link>https://kaiyulei.github.io/zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kaiyulei.github.io/zh/</guid>
+      <description>&lt;h1 id=&#34;welcome-to-omemo-site&#34;&gt;Welcome to omemo site!&lt;/h1&gt;</description>
     </item>
   </channel>
 </rss>
