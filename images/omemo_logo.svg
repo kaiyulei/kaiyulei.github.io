@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="uuid-8d6d1299-2817-4840-b436-241de6eefc96" data-name="Grid" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 1024">
+<svg id="uuid-96dc5e89-296a-4f64-aee1-3100a8dcefca" data-name="Grid" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 1024">
   <defs>
-    <filter id="uuid-d6e41d04-9468-4e07-8095-3841031a7f4d" x="82.61" y="82.61" width="858.78" height="858.78" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+    <filter id="uuid-f866845b-42dd-43ac-9271-492eb8fabbc7" x="82.61" y="82.61" width="858.78" height="858.78" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
       <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
     </filter>
-    <mask id="uuid-aedd27d7-5847-4789-9925-75fc1316d83d" data-name="mask" x="82.61" y="82.61" width="858.78" height="858.78" maskUnits="userSpaceOnUse">
-      <g filter="url(#uuid-d6e41d04-9468-4e07-8095-3841031a7f4d)">
+    <mask id="uuid-02bb0e73-95a1-4ace-abb2-47fe84bf2f4b" data-name="mask" x="82.61" y="82.61" width="858.78" height="858.78" maskUnits="userSpaceOnUse">
+      <g filter="url(#uuid-f866845b-42dd-43ac-9271-492eb8fabbc7)">
         <g>
           <path d="M244.93,380.63c-32-8.57-65.41-4.17-94.09,12.39-28.68,16.56-49.2,43.3-57.78,75.29l-6.21,23.18c-17.7,66.04,21.64,134.17,87.68,151.87,10.71,2.87,21.47,4.24,32.06,4.24,54.74,0,104.98-36.59,119.8-91.92l6.21-23.18c17.7-66.04-21.64-134.17-87.68-151.87Z" fill="#222325"/>
           <path d="M937.15,491.5l-6.21-23.18c-8.57-31.99-29.09-58.73-57.77-75.29s-62.1-20.96-94.09-12.39c-66.04,17.7-105.38,85.82-87.68,151.87l6.21,23.18c8.57,31.99,29.09,58.73,57.78,75.29,19.11,11.03,40.31,16.67,61.8,16.67,10.77,0,21.61-1.42,32.29-4.28,66.04-17.7,105.38-85.82,87.68-151.87Z" fill="#222325"/>
@@ -14,12 +14,13 @@
         </g>
       </g>
     </mask>
-    <linearGradient id="uuid-778c6b4d-f5ca-44ed-8866-84efe9014f1a" data-name="未命名漸層 6" x1="82.61" y1="512" x2="941.39" y2="512" gradientUnits="userSpaceOnUse">
+    <linearGradient id="uuid-436da290-fdb3-45f3-893c-ba8bdc7efd80" data-name="未命名漸層 7" x1="82.61" y1="512" x2="941.39" y2="512" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#daa520"/>
+      <stop offset=".5" stop-color="#b5a28e"/>
       <stop offset="1" stop-color="#da8a67"/>
     </linearGradient>
   </defs>
-  <g mask="url(#uuid-aedd27d7-5847-4789-9925-75fc1316d83d)">
-    <rect x="82.61" y="82.61" width="858.78" height="858.78" fill="url(#uuid-778c6b4d-f5ca-44ed-8866-84efe9014f1a)"/>
+  <g mask="url(#uuid-02bb0e73-95a1-4ace-abb2-47fe84bf2f4b)">
+    <rect x="82.61" y="82.61" width="858.78" height="858.78" fill="url(#uuid-436da290-fdb3-45f3-893c-ba8bdc7efd80)"/>
   </g>
 </svg>
