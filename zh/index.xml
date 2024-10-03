@@ -9,6 +9,47 @@
     <lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://kaiyulei.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title></title>
+      <link>https://kaiyulei.github.io/zh/about/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://kaiyulei.github.io/zh/about/</guid>
+      <description>&lt;p&gt;omemo相信美好的人生繫於人們與生活的三個面向，包含了心靈、健康和財富軌跡的情感連結與探求。因此，omemo致力於精心打造充滿愉悅使用體驗的產品，連繫過去珍惜的回憶，並創造未來珍貴的記憶。在心靈層面，omemo推出了oThings記憶保存應用程式，幫助您專注於記錄珍愛的事物；在財富層面，omemo也推出了oSold POS應用程式，協助您實現夢想的變現。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3 id=&#34;產品與服務&#34;&gt;產品與服務&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://kaiyulei.github.io/images/othings/logo.svg&#34; width=&#34;64&#34; height=&#34;64&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://kaiyulei.github.io/zh/othings/&#34;&gt;oThings - 記錄珍愛的事物&lt;/a&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://kaiyulei.github.io/images/osold/logo.svg&#34; width=&#34;64&#34; height=&#34;64&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://kaiyulei.github.io/zh/osold/&#34;&gt;oSold - 夢想的變現&lt;/a&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3 id=&#34;創辦人&#34;&gt;創辦人&lt;/h3&gt;
+&lt;p&gt;Kyle Lei從事設計多年，堅信設計是科學與哲學結合的專業學門，致力於提升人們生活的福祉。他認為科技塑造了現代生活，因此隨著科技的進步，Kyle不斷精進自身的設計技能，從工業設計逐步拓展至使用者介面設計領域。然而，隨著人工智慧成為科技的核心應用，他更加深刻地體會到設計的可行性與科技的創造性密不可分。這促使他自學程式開發，創造出結合設計與軟體開發的混合體驗設計。於2023年，Kyle創立了個人品牌omemo，展現其在商業、設計與程式開發上的創造性思維。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3 id=&#34;聯絡我們&#34;&gt;聯絡我們&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;mailto:info@omemo.ooo&#34;&gt;info@omemo.ooo&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>oSold</title>
       <link>https://kaiyulei.github.io/zh/osold/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
@@ -23,8 +64,10 @@
 &lt;p&gt;透過 oSold將您的創作、專業或品味轉化為現實。提供簡單操作的產品選單與流暢的結帳金額計算，助您將夢想變現。跨裝置同步，適配平板與手機，全面提升銷售動能。&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://kaiyulei.github.io/images/osold/cover_tablet.png&#34; alt=&#34;oSold iPad Cover&#34;  /&gt;
 &lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://apps.apple.com/us/app/osold/id6473840432&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://kaiyulei.github.io/images/img_app_store.png&#34; alt=&#34;Download on the App Store&#34;  /&gt;
+&lt;p&gt; 
+&lt;a href=&#34;https://apps.apple.com/us/app/osold/id6473840432&#34;&gt;&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://kaiyulei.github.io/images/img_app_store.svg&#34; width=&#34;135&#34; height=&#34;40&#34;/&gt; 
+&lt;/figure&gt;
 &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;h3 id=&#34;milestone&#34;&gt;Milestone&lt;/h3&gt;
@@ -45,7 +88,9 @@
 &lt;p&gt;&lt;strong&gt;oThings 是一款專為您的生活記憶而設的記憶保存應用程式，讓您專注於記錄珍愛的事物。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;透過oThings紀錄您的收藏、紀念品，或珍貴的事件回憶。提供完善的元數據、多元貨幣的紀錄與標籤的標記，紀錄珍愛事物的獨特性與生活連結的深度。透過多樣分類與佈局，展現生活的品味。&lt;/p&gt;
 &lt;p&gt; 
-&lt;a href=&#34;https://apps.apple.com/tw/app/othings/id6448870649&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://kaiyulei.github.io/images/img_app_store.png&#34; alt=&#34;Download on the App Store&#34;  /&gt;
+&lt;a href=&#34;https://apps.apple.com/tw/app/othings/id6448870649&#34;&gt;&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://kaiyulei.github.io/images/img_app_store.svg&#34; width=&#34;135&#34; height=&#34;40&#34;/&gt; 
+&lt;/figure&gt;
 &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;h3 id=&#34;里程碑&#34;&gt;里程碑&lt;/h3&gt;
@@ -59,46 +104,6 @@
 &lt;p&gt;📷  新增相機功能，以捕捉您珍愛的事物，並提供多語言本地化和ShareLink分享您的愛。&lt;/p&gt;
 &lt;h4 id=&#34;othings-11---love-initial--may-2023&#34;&gt;oThings 1.1 - Love Initial | May 2023&lt;/h4&gt;
 &lt;p&gt;❤️ 實現持久存儲，並提供檢索、過濾和排序功能，以管理您珍愛的事物。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>關於</title>
-      <link>https://kaiyulei.github.io/zh/about/</link>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://kaiyulei.github.io/zh/about/</guid>
-      <description>&lt;p&gt;omemo相信美好的生活源自於心靈、財富和健康的平衡富足，並致力於透過精心打造充滿愉悅感的使用者體驗來滿足對美好生活的追求。在心靈層面，omemo推出了oThings記憶保存應用程式，幫助您專注於記錄珍愛的事物；在財富層面，omemo也推出了oSold POS應用程式，協助您實現夢想的變現。&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;h3 id=&#34;產品&#34;&gt;產品&lt;/h3&gt;
-&lt;h4 id=&#34;心靈層面&#34;&gt;心靈層面&lt;/h4&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;https://kaiyulei.github.io/images/othings/logo.svg&#34; width=&#34;64&#34; height=&#34;64&#34;/&gt; 
-&lt;/figure&gt;
-&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://kaiyulei.github.io/zh/othings/&#34;&gt;oThings - Note your loved things&lt;/a&gt;&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h4 id=&#34;財富層面&#34;&gt;財富層面&lt;/h4&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;https://kaiyulei.github.io/images/osold/logo.svg&#34; width=&#34;64&#34; height=&#34;64&#34;/&gt; 
-&lt;/figure&gt;
-&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://kaiyulei.github.io/zh/osold/&#34;&gt;oSold - Cash your dreams&lt;/a&gt;&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;h4 id=&#34;聯絡我們&#34;&gt;聯絡我們&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;mailto:info@omemo.ooo&#34;&gt;info@omemo.ooo&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
