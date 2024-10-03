@@ -4,6 +4,8 @@
   <url>
     <loc>https://kaiyulei.github.io/zh/about/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -17,6 +19,8 @@
   </url><url>
     <loc>https://kaiyulei.github.io/zh/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -30,6 +34,8 @@
   </url><url>
     <loc>https://kaiyulei.github.io/zh/osold/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -43,6 +49,8 @@
   </url><url>
     <loc>https://kaiyulei.github.io/zh/othings/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -55,6 +63,8 @@
                 />
   </url><url>
     <loc>https://kaiyulei.github.io/zh/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -67,6 +77,8 @@
                 />
   </url><url>
     <loc>https://kaiyulei.github.io/zh/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
