@@ -9,13 +9,6 @@
     <lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://kaiyulei.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>https://kaiyulei.github.io/en/about/</link>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://kaiyulei.github.io/en/about/</guid>
-      <description>&lt;p&gt;omemo believes that a beautiful life stems from the emotional connections we create and the pursuit of balance across three key areas: spirit, health, and wealth. We are dedicated to crafting joyful user experiences that not only help you connect with cherished memories of the past but also empower you to create precious moments for the future. At the spiritual level, omemo launched the oThings memory-keeping app, enabling you to focus on noting your loved things. On the wealth front, omemo introduced the oSold POS app, designed to assist you in cashing in on your dreams and turning your passions into reality.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>oSold</title>
       <link>https://kaiyulei.github.io/en/osold/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
@@ -29,9 +22,16 @@
 &lt;strong&gt;oSoldis an offline sales application designed specifically for dream chasers like you, allowing you to focus on cashing your dreams.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>About</title>
+      <link>https://kaiyulei.github.io/en/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kaiyulei.github.io/en/about/</guid>
+      <description>&lt;p&gt;omemo believes that a beautiful life stems from the emotional connections we create and the pursuit of balance across three key areas: spirit, health, and wealth. We are dedicated to crafting joyful user experiences that not only help you connect with cherished memories of the past but also empower you to create precious moments for the future. At the spiritual level, omemo launched the oThings memory-keeping app, enabling you to focus on noting your loved things. On the wealth front, omemo introduced the oSold POS app, designed to assist you in cashing in on your dreams and turning your passions into reality.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>oThings</title>
       <link>https://kaiyulei.github.io/en/othings/</link>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://kaiyulei.github.io/en/othings/</guid>
       <description>&lt;h4 id=&#34;note-your-loved-things&#34;&gt;Note your loved things&lt;/h4&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://kaiyulei.github.io/images/othings/cover.png&#34; alt=&#34;oThings Cover&#34;  /&gt;
