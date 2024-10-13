@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>News on omemo</title>
+    <link>https://kaiyulei.github.io/zh/news/</link>
+    <description>Recent content in News on omemo</description>
+    <generator>Hugo -- 0.135.0</generator>
+    <language>zh</language>
+    <lastBuildDate>Fri, 02 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://kaiyulei.github.io/zh/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>oSold 夢想起飛</title>
+      <link>https://kaiyulei.github.io/zh/news/osold_dreamtakesoff/</link>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://kaiyulei.github.io/zh/news/osold_dreamtakesoff/</guid>
+      <description>oSold 1.1</description>
+    </item>
+  </channel>
+</rss>

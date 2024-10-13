@@ -6,6 +6,14 @@
     <description>Recent content in Categories on omemo</description>
     <generator>Hugo -- 0.135.0</generator>
     <language>en</language>
+    <lastBuildDate>Fri, 02 Aug 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://kaiyulei.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>App</title>
+      <link>https://kaiyulei.github.io/en/categories/app/</link>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://kaiyulei.github.io/en/categories/app/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
