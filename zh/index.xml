@@ -6,8 +6,15 @@
     <description>Recent content on omemo</description>
     <generator>Hugo -- 0.135.0</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://kaiyulei.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>夢想遨翔國際</title>
+      <link>https://kaiyulei.github.io/zh/news/osold_dreamssoarinternationally/</link>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://kaiyulei.github.io/zh/news/osold_dreamssoarinternationally/</guid>
+      <description>oSold 1.2</description>
+    </item>
     <item>
       <title>oSold</title>
       <link>https://kaiyulei.github.io/zh/osold/</link>
@@ -52,6 +59,8 @@
     &lt;img loading=&#34;lazy&#34; src=&#34;https://kaiyulei.github.io/images/osold/logo.svg&#34; width=&#34;64&#34; height=&#34;64&#34;/&gt; 
 &lt;/figure&gt;
 
+&lt;h4 id=&#34;osold-12---夢想遨翔國際--oct-2024&#34;&gt;oSold 1.2 - 夢想遨翔國際 | Oct 2024&lt;/h4&gt;
+&lt;p&gt;🌎 新增多幣別銷售選項，您現在可以為產品設定不同幣別的價格，並在結帳時靈活切換幣別，輕鬆滿足各種銷售需求。&lt;/p&gt;
 &lt;h4 id=&#34;osold-11---夢想起飛--aug-2024&#34;&gt;oSold 1.1 - 夢想起飛 | Aug 2024&lt;/h4&gt;
 &lt;p&gt;🚀 新增產品選單創建和便捷的結帳計算器，並提供備份與同步功能，以實現夢想的同步銷售。&lt;/p&gt;</description>
     </item>
@@ -147,7 +156,7 @@ omemo相信美好的人生繫於人們與生活的三個面向，包含了心靈
   &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt; &lt;/p&gt;
-&lt;h3 id=&#34;創辦人&#34;&gt;創辦人&lt;/h3&gt;
+&lt;h3 id=&#34;負責人設計與程式開發&#34;&gt;負責人，設計與程式開發&lt;/h3&gt;
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
