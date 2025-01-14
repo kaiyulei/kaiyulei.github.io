@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://kaiyulei.github.io/zh/categories/app/</loc>
-    <lastmod>2024-10-21T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -18,7 +18,7 @@
                 />
   </url><url>
     <loc>https://kaiyulei.github.io/zh/categories/</loc>
-    <lastmod>2024-10-21T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -33,7 +33,7 @@
                 />
   </url><url>
     <loc>https://kaiyulei.github.io/zh/news/</loc>
-    <lastmod>2024-10-21T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -48,7 +48,7 @@
                 />
   </url><url>
     <loc>https://kaiyulei.github.io/zh/</loc>
-    <lastmod>2024-10-21T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -60,6 +60,51 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://kaiyulei.github.io/zh/"
+                />
+  </url><url>
+    <loc>https://kaiyulei.github.io/zh/tags/othings/</loc>
+    <lastmod>2025-01-14T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kaiyulei.github.io/en/tags/othings/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://kaiyulei.github.io/zh/tags/othings/"
+                />
+  </url><url>
+    <loc>https://kaiyulei.github.io/zh/tags/</loc>
+    <lastmod>2025-01-14T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kaiyulei.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://kaiyulei.github.io/zh/tags/"
+                />
+  </url><url>
+    <loc>https://kaiyulei.github.io/zh/news/othings_loveunlimited/</loc>
+    <lastmod>2025-01-14T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kaiyulei.github.io/en/news/othings_loveunlimited/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://kaiyulei.github.io/zh/news/othings_loveunlimited/"
                 />
   </url><url>
     <loc>https://kaiyulei.github.io/zh/tags/osold/</loc>
@@ -75,21 +120,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://kaiyulei.github.io/zh/tags/osold/"
-                />
-  </url><url>
-    <loc>https://kaiyulei.github.io/zh/tags/</loc>
-    <lastmod>2024-10-21T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kaiyulei.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://kaiyulei.github.io/zh/tags/"
                 />
   </url><url>
     <loc>https://kaiyulei.github.io/zh/news/osold_dreamssoarinternationally/</loc>
